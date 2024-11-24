@@ -3,7 +3,6 @@
 A simple and intuitive Todo List application built with HTML, CSS, and JavaScript. The app allows users to add tasks, edit them, delete them, and mark them as completed using a checkbox.
 
 ## [Live Demo]
-(https://todo-js--ebon.vercel.app/)
 
 
 ![Screenshot (228)](https://github.com/user-attachments/assets/e0c46640-d27b-4cf1-9f42-6ba97764336a)
